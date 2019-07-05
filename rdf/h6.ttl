@@ -43,15 +43,15 @@
 
 ex:kilmer-1960 a biro:BibliographicRecord ;
   co:firstItem <http://ahma.berkeley.edu/people/faculty/anne-kilmer> ;
-  dcterms:bibliographicCitation "Kilmer, Anne Draffkorn. "Two new lists of key numbers for mathematical operations." Orientalia 29.3 (1960): 273-308." ;
+  dcterms:bibliographicCitation "Kilmer, Anne Draffkorn. Two new lists of key numbers for mathematical operations. Orientalia 29.3 (1960): 273-308." ;
   biro:references <https://www.jstor.org/stable/43073543> .
 
 ex:duchesne-guillemin-1984 a biro:BibliographicRecord ;
   co:firstItem <http://www.iranicaonline.org/articles/guillemin-marcelle> ;
-  dcterms:bibliographicCitation "Duchesne-Guillemin, Marcelle. A hurrian musical score from ugarit: the discovery of mesopotamian music. Undena publications, 1984." ;
+  dcterms:bibliographicCitation "Duchesne-Guillemin, Marcelle. A Hurrian musical score from Ugarit: The discovery of Mesopotamian music. Undena publications, 1984." ;
   biro:references <http://urkesh.org/attach/duchesne-guillermin%201984%20the%20discovery%20of%20mesopotamian%20music.pdf> .
 
 ex:west-1993 a biro:BibliographicRecord ;
   co:firstItem <https://dbpedia.org/resource/Martin_Litchfield_West> ;
-  dcterms:bibliographicCitation "West, Martin Litchfield. "The Babylonian musical notation and the Hurrian melodic texts." Music & letters 75.2 (1994): 161-179." ;
+  dcterms:bibliographicCitation "West, Martin Litchfield. The Babylonian musical notation and the Hurrian melodic texts. Music & letters 75.2 (1994): 161-179." ;
   biro:references <https://www.jstor.org/stable/737674> .
