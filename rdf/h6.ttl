@@ -12,12 +12,12 @@
   frbr:realization <https://purl.org/midi-ld/h6/expression> ; # frbr:Expression, resolves to https://www.europeana.eu/portal/en/search?q=hurrian
   dc:subject <https://dbpedia.org/resource/Hurrian_songs> ;
   foaf:primaryTopic <https://dbpedia.org/resource/Hurrian_songs> ;
-  foaf:topic <http://dbpedia.org/page/Ancient_music> ;
+  foaf:topic <http://dbpedia.org/page/Ancient_music> .
 
 <https://purl.org/midi-ld/h6/expression> a frbr:Expression ;
   frbr:embodiment <http://purl.org/midi-ld/piece/9f7035235da7426fbee9d3d7a05e9f6c> ; # kilmer, frbr:Manifestation
   frbr:embodiment <http://purl.org/midi-ld/piece/e4ef885b5841745546efbc2bed9f9a98> ; # duchesne-guillemin, frbr:Manifestation
-  frbr:embodiment <http://purl.org/midi-ld/piece/828c32f2a5bdab704d29c2aedb4ae034> ; # west, frbr:Manifestation
+  frbr:embodiment <http://purl.org/midi-ld/piece/828c32f2a5bdab704d29c2aedb4ae034> . # west, frbr:Manifestation
 
 <http://ahma.berkeley.edu/people/faculty/anne-kilmer> a foaf:Person, mo:MusicArtist ;
   foaf:givenName "Anne Draffkorn" ;
