@@ -4,6 +4,7 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix mo: <http://purl.org/ontology/mo/> .
+@prefix biro: <http://purl.org/spar/biro/> .
 @prefix co: <http://rhizomik.net/ontologies/copyrightonto.owl#> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix schema: <http://schema.org/> .
